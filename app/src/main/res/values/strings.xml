@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Flames</string>
+    <string name="enter_boy_name">Enter Boy Name</string>
+    <string name="enter_girl_name">Enter Girl Name</string>
+    <string name="flames">Flames</string>
+</resources>
